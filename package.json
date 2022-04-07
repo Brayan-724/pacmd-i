@@ -1,6 +1,6 @@
 {
   "name": "pacmd-i",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Pacmd but interactive",
   "main": "dist/index.js",
   "bin": "dist-d/index.js",
