@@ -4,7 +4,6 @@
   "description": "Pacmd but interactive",
   "main": "dist/index.js",
   "bin": "dist-d/index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "test:zx:mixer": "zx ./dist-d/index.js mixer"
